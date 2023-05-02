@@ -1,0 +1,16 @@
+/* https://fonts.google.com/specimen/Inter */
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=Sora:wght@700&display=swap");
+
+* {
+  font-family: "Inter", sans-serif;
+}
+body{
+    background-color: #272727;
+}
+ul li a.nav-link{
+    color: #c9c9c9;
+}
+
+ul li a.nav-link:hover{
+    color: #ffffff;
+}
